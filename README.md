@@ -9,6 +9,19 @@ A full-stack MERN application for small businesses to manage inventory, track st
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Products
+![Products](screenshots/products.png)
+
+### Orders
+![Orders](screenshots/orders.png)
+
+---
+
 ## 📁 Project Structure
 
 ```
